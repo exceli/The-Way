@@ -1,0 +1,44 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Сгенерированные файлы IDE
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.consulo/
+
+# Сборки и краши
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-buildid.txt
+sysinfo.txt
+
+# macOS
+.DS_Store
+
+# Локальные настройки Claude Code
+.claude/settings.local.json
